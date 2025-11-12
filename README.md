@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 ##### Stats
 ![DltFxz GitHub stats](https://github-readme-stats.vercel.app/api?username=DltFxz&show_icons=true&theme=shadow_red)
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DltFxz/DltFxz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DltFxz/DltFxz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DltFxz/DltFxz/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
